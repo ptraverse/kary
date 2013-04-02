@@ -1,0 +1,5 @@
+genetic code id				-- GenBank genetic code id
+abbreviation				-- genetic code name abbreviation
+name					-- genetic code name
+cde					-- translation table for this genetic code
+starts					-- start codons for this genetic code

@@ -1,0 +1,4 @@
+tax_id					-- the id of node associated with this name
+name_txt				-- name itself
+unique name				-- the unique variant of this name if name not unique
+name class				-- (synonym, common name, ...)

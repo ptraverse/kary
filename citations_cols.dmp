@@ -1,0 +1,7 @@
+cit_id					-- the unique id of citation
+cit_key					-- citation key
+pubmed_id				-- unique id in PubMed database (0 if not in PubMed)
+medline_id				-- unique id in MedLine database (0 if not in MedLine)
+url					-- URL associated with citation
+text					-- any text (usually article name and authors).
+taxid_list				-- list of node ids separated by a single space

@@ -1,0 +1,13 @@
+tax_id					-- node id in GenBank taxonomy database
+parent tax_id				-- parent node id in GenBank taxonomy database
+rank					-- rank of this node (superkingdom, kingdom, ...) 
+embl code				-- locus-name prefix; not unique
+division id				-- see division.dmp file
+inherited div flag  (1 or 0)		-- 1 if node inherits division from parent
+genetic code id				-- see gencode.dmp file
+inherited GC  flag  (1 or 0)		-- 1 if node inherits genetic code from parent
+mitochondrial genetic code id		-- see gencode.dmp file
+inherited MGC flag  (1 or 0)		-- 1 if node inherits mitochondrial gencode from parent
+GenBank hidden flag (1 or 0)            -- 1 if name is suppressed in GenBank entry lineage
+hidden subtree root flag (1 or 0)       -- 1 if this subtree has no sequence data yet
+comments				-- free-text comments and citations

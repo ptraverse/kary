@@ -1,0 +1,2 @@
+old_tax_id                              -- id of nodes which has been merged
+new_tax_id                              -- id of nodes which is result of merging

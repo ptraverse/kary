@@ -1,0 +1,4 @@
+division id				-- taxonomy database division id
+division cde				-- GenBank division code (three characters)
+division name				-- e.g. BCT, PLN, VRT, MAM, PRI...
+comments				-- comments
